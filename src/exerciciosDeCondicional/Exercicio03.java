@@ -2,7 +2,7 @@
 //	e converte para outra unidade com base na entrada.
 
 
-package exercicioDeCondicional;
+package exerciciosDeCondicional;
 import java.util.Scanner;
 
 

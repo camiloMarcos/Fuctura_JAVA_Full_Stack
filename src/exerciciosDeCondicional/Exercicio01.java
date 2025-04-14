@@ -1,7 +1,7 @@
 //	01 Implemente um sistema de semáforo usando switch case.
 //	Receba um estado (vermelho, amarelo ou verde) e determine a ação apropriada.
 
-package exercicioDeCondicional;
+package exerciciosDeCondicional;
 import java.util.Scanner;
 
 public class Exercicio01 {

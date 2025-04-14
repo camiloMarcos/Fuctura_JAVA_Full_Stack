@@ -1,7 +1,7 @@
 //	02 Crie um programa que recebe uma nota musical (A, B, C, D, E ou F)
 //	e fornece informações sobre ela, como a frequência.
 
-package exercicioDeCondicional;
+package exerciciosDeCondicional;
 import java.util.Scanner;
 
 	public class Exercicio02 {
